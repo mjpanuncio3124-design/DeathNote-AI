@@ -1,10 +1,10 @@
-Engineering Journal
+Engineering Journal tite
 Artifact for the 2nd week of Training
 
 #Week 2, Day 1
 
 Morning Stand-Up:
-What did I do today?
+What did I do yesterday?
 -Made a Persona AI on Google AI Studio
 -Was able to input Windsurf on VSC
 -Basic React Concepts
@@ -22,7 +22,7 @@ This is created through basic React concept and tailwind css
 
 #Week2, Day 2
 
-What did i do today?
+What did i do yesterday?
 -
 What will I do today?
 -
