@@ -35,4 +35,18 @@ End-of-day Checkout
 This is a simple UI using Tailwindcss and React.
 
 
+#Week2, Day 3
+
+What did i do yesterday?
+-
+What will I do today?
+-
+What are my blockers?
+-
+End-of-day Checkout
+
+<img width="376" height="232" alt="image" src="https://github.com/user-attachments/assets/bab275df-854f-4376-b815-3e81f153b5c0" />
+
+This is a simple UI using Tailwindcss and React.
+
 
