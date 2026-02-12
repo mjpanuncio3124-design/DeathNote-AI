@@ -23,11 +23,11 @@ This is created through basic React concept and tailwind css
 #Week2, Day 2
 
 What did i do yesterday?
--
+-I Designed my Ai's UI/UX with figma and then coded it
 What will I do today?
--
+-API Intergration.
 What are my blockers?
--
+-had a hard time to integrate my API key.
 End-of-day Checkout
 
 <img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/59781261-e833-4e5a-8a6c-1c0d264dee4b" />
@@ -38,11 +38,11 @@ This is a simple UI using Tailwindcss and React.
 #Week2, Day 3
 
 What did i do yesterday?
--
+-I Designed my Ai's UI/UX with figma and then coded it
 What will I do today?
--
+-API Intergration.
 What are my blockers?
--
+-had a hard time to integrate my API key.
 End-of-day Checkout
 
 <img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/50040350-1d75-4b6f-ab19-411d53ccf1f4" />
